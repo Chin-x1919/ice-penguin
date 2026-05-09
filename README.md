@@ -1,5 +1,9 @@
 # ice-penguin
 
+---
+
+## we also have android/ios port 
+yeah we have it but you need to compile it youself on ios android version already build repo [here](https://github.com/Chin-x1919/IcePenguin-Mobile/)
 
 ## Overview
 
